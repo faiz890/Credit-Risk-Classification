@@ -83,9 +83,9 @@ Akurasi Model: ~90% - 95%
 
 Output Prediksi Simulasi:
 
-==================================================
+=======================
 PREDIKSI NASABAH BARU
-==================================================
+=======================
 Hasil Prediksi     : Gagal Bayar (Berisiko)
 Probabilitas Risiko: 82.40%
 
